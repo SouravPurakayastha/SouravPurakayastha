@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SouravPurakayastha
-- 👀 I’m interested in building backend distributed systems
-- 🌱 I’m currently learning React and Typescript to call myself a Full stack developer and Azure for the AZ-900 certification
-- 💞️ I’m looking to collaborate on system designs, BE architecture and designing Cloud infrastuctures
+- 👀 I’m interested in building backend distributed systems and infrastructures
+- 🌱 I’m 100% Backend Engineer or 70% DevOps Engineer or 40% ReactJS developer
+- 💞️ I’m looking to collaborate on system designs, BE architectures and designing Cloud infrastuctures
 - 📫 To reach me, please drop an email at my mail: souravpurakayastha505@gmail.com. (Preferrably, mentioning that you have got my contact from Github)
 
 <!---
